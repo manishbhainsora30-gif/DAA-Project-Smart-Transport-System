@@ -1,1 +1,0 @@
-DEFAULT_LOCATION = (30.3165, 78.0322)  # Dehradun
